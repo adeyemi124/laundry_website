@@ -35,7 +35,7 @@ const Header = () => {
           </a>
         </nav>
         <a
-          href="tel:+2348012345678"
+          href="tel:+2349035508681"
           className="flex items-center text-white hover:text-teal-200"
         >
           <Phone className="mr-2" />
